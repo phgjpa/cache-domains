@@ -1,1 +1,4 @@
+ip.ml.youngjoygame.com
+akmcdn.ml.youngjoygame.com
+pldtcdn.ml.youngjoygame.com
 *.ml.youngjoygame.com
