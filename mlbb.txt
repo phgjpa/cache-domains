@@ -1,1 +1,1 @@
-pldtcdn.ml.youngjoygame.com
+*.ml.youngjoygame.com
